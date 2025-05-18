@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maryyum
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning Full Stack Web Development (Front-End & Back-End).
+- 🌱 I’m currently learning Full Stack Web Development (Front-End, Back-End & Data Base).
 - 💞️ I’m looking to collaborate on different projects like web, gaming and apps making.
 - 📫 How to reach me ... can send me message
 <!---
